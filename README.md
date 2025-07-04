@@ -36,7 +36,6 @@ This project presents the first end-to-end Automatic Speech Recognition (ASR) sy
 | Validation Samples     | 1,470              |
 | Test Samples           | 1,470              |
 
-> 📢 **Note:** Dataset is not publicly available due to ethical/privacy constraints. Academic researchers may request access upon signing an NDA.
 
 ---
 
@@ -90,5 +89,4 @@ Amrita Vishwa Vidyapeetham, Coimbatore
 
 ---
 
-> 🧠 This project contributes to language preservation and digital empowerment of indigenous linguistic communities using cutting-edge AI.
 
